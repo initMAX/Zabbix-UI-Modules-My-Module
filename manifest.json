@@ -1,0 +1,17 @@
+{
+	"manifest_version": 1,
+	"id": "mymodule",
+	"name": "My Zabbix Module",
+	"description": "Module with a Demo page",
+	"version": "1.0",
+	"namespace": "MyModule",
+	"author": "initMAX s.r.o.",
+	"url": "www.initmax.com",
+	"require": {
+		"zabbix": "^6.0"
+	},
+	"actions": {
+	},
+	"config": {
+	}
+}
